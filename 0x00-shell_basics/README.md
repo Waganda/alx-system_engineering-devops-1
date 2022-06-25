@@ -7,4 +7,5 @@ A script that displays current directory contents in long format with user and g
 A script that creates a directory named my_first_directory in the /tmp/ directory.
 Betty in my first directory.
 Delete the file betty.
-Delete the directory my_first_directory. 
+Delete the directory my_first_directory.
+A script that changes the working directory to the previous one. 
