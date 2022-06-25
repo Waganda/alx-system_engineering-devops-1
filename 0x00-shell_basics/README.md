@@ -8,4 +8,5 @@ A script that creates a directory named my_first_directory in the /tmp/ director
 Betty in my first directory.
 Delete the file betty.
 Delete the directory my_first_directory.
-A script that changes the working directory to the previous one. 
+A script that changes the working directory to the previous one.
+A script that lists all files in the current directory and the parent of the working directory and the /boot directory in long format. 
