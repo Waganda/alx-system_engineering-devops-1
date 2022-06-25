@@ -10,3 +10,4 @@ A script that gives all permissions to other user except the owner and group own
 A script that resets the mode of the file hello.
 A script that sets the mode of the file hello the same as olleh’s mode.
 A script that adds execute permission to all subdirectories only of the current directory.
+A script that creates a directory called my_dir with permissions 751 in the working directory.
