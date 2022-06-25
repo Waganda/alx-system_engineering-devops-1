@@ -1,1 +1,2 @@
-My 0x00-shell_basics readme
+A script that prints the absolute path name of the current working directory.
+A script that displays the contents list of your current directory.
