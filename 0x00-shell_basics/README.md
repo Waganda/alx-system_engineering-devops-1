@@ -5,4 +5,5 @@ A script that displays current directory contents in a long format.
 A script that displays current directory contents, including hidden files.
 A script that displays current directory contents in long format with user and group IDs displayed numerically and hidden files.
 A script that creates a directory named my_first_directory in the /tmp/ directory.
-Betty in my first directory. 
+Betty in my first directory.
+Delete the directory my_first_directory. 
